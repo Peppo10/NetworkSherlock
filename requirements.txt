@@ -5,3 +5,8 @@ threading
 time
 queue
 shodan
+requests
+scapy
+colorama
+urllib3
+cryptography
